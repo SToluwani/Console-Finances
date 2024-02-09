@@ -88,6 +88,7 @@ var finances = [
 ];
 
 //Answers to Analysis
+
 function analyzeFinances(finances) {
   var totalMonths = finances.length;
   var netTotal = 0;
